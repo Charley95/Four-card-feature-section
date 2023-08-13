@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-ZrU2ld7U5M)
+- Live Site URL: [Add live site URL here](https://charley95.github.io/Four-card-feature-section/)
 
 
 ### Built with
@@ -51,8 +51,8 @@ I also want to focus on always getting my design to be responsive across all scr
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com) 
-- [Example resource 2](https://www.csstricks.com)
+- [W3schools](https://www.w3schools.com) 
+- [CSS tricks](https://www.csstricks.com)
 these two resources helped me in getting solutions especially when I was using grid and flexbox
 
 
