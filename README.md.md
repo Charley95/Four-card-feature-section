@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-ZrU2ld7U5M)
-- Live Site URL: [Add live site URL here](https://charley95.github.io/Four-card-feature-section/)
+- Frontend Mentor: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-section-ZrU2ld7U5M)
+- Github: [Add live site URL here](https://charley95.github.io/Four-card-feature-section/)
 
 
 ### Built with
